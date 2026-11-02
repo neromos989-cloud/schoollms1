@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">School LMS</string>
+    <string name="code_title">Masukkan kode sekolah</string>
+    <string name="code_hint">Kode sekolah (contoh: man19jkt)</string>
+    <string name="code_continue">Lanjut</string>
+    <string name="code_invalid">Kode hanya boleh huruf, angka, dan tanda minus (-).</string>
+    <string name="shortcut_change">Ganti sekolah</string>
+</resources>
